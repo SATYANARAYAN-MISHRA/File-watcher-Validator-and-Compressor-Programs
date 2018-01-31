@@ -1,0 +1,12 @@
+{
+    "validator": [
+	{
+	    "input_db_name":"/home/vaibhav/sem6/se2proj/database/tempdb.db",
+	    "output_tmp_db_name":"/home/vaibhav/sem6/se2proj/tempdb-tgz-md5.db",
+	    "output_json_db_name":"/home/vaibhav/sem6/se2proj/database/tempdb-json.db",
+	    "table_tmp_db":"tblr",
+	    "table_tmptar_db":"tble",
+	    "sleep_time":"30"
+	}
+    ]
+}

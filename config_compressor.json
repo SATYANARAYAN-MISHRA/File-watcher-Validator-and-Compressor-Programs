@@ -1,0 +1,10 @@
+{
+    "compressor": [
+	{
+	    "input_db_name":"/home/vaibhav/sem6/se2proj/database/tempdb.db",
+	    "output_db_name":"/home/vaibhav/sem6/se2proj/tempdb-tgz-md5.db",
+	    "table_name":"SILEDATA",
+	    "sleep_time":"30"
+	}
+    ]
+}

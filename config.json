@@ -1,0 +1,9 @@
+{
+    "filewatcher" :[
+	{
+	    "dir_path" :"/home/vaibhav/sem6/se2proj/chatwatcher",
+	    "sleep_time":"10.0",
+	    "db_path":"/home/vaibhav/sem6/se2proj/database/tmp.db"
+	}
+    ]
+}
